@@ -10,7 +10,7 @@ Phone: 1+ (516) 972-8884
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)](#)
-[![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?logo=powershell&logoColor=white)](#)
+[![PowerShell](https://custom-icon-badges.demolab.com/badge/Powershell-0078D6?logo=windows11&logoColor=white))](#)
 [![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff)](#)
 [![GameMaker](https://img.shields.io/badge/GameMaker-000?logo=gamemaker&logoColor=fff)](#)
 [![Godot Engine](https://img.shields.io/badge/Godot-%23FFFFFF.svg?logo=godot-engine)](#)
