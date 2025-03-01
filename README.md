@@ -1,7 +1,3 @@
-# About me
-Email: steadeluca@gmail.com
-Phone: 1+ (516) 972-8884
-
 ## Technical Skills
 [![Deno](https://img.shields.io/badge/Deno-000?logo=deno&logoColor=fff)](#)
 [![Preact](https://img.shields.io/badge/Preact-673AB8?logo=preact&logoColor=fff)](#)
