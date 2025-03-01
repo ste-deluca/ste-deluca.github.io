@@ -20,6 +20,7 @@
 - Troubleshooting issues experienced by a team member.
 - Hobbyist tinkering with operating systems such as Windows and Linux distros.
 - Remote desktop software.
+- Developed and maintained a popular mod within the Halo series. (1000+ Downloads)
 
 ## Professional Experience
 ### Cliffco Mortgage Bankers
