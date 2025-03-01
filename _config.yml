@@ -1,0 +1,15 @@
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme
+title: Steven DeLuca
+logo: "/self.png"
+description: >
+  <br>
+  Hobbiyst Programmer
+  <br>
+  <a href="tel:15169728884">
+    <img src="https://img.shields.io/badge/phone-030000?&style=for-the-badge&logoColor=white">
+  </a>
+  <a href="mailto:steadeluca@gmail.com">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
