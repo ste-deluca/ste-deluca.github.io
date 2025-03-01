@@ -17,7 +17,7 @@
 - Running a virtual helpdesk, Jira bug tracker, Zendesk.
 - Reviewing bug reports, documenting reproduction steps, and working on solutions for the user.
 - Microsoft Teams, Office and Google equivalents.
-- Troubleshooting issues experienced by a team member.
+- Troubleshooting issues experienced by a user.
 - Hobbyist tinkering with operating systems such as Windows and Linux distros.
 - Remote desktop software.
 - Developed and maintained a popular mod within the Halo series. (1000+ Downloads)
