@@ -1,2 +1,48 @@
-# ste-deluca.github.io
-My Portfolio
+# About me
+Email: steadeluca@gmail.com
+Phone: 1+ (516) 972-8884
+
+## Technical Skills
+[![Deno](https://img.shields.io/badge/Deno-000?logo=deno&logoColor=fff)](#)
+[![Preact](https://img.shields.io/badge/Preact-673AB8?logo=preact&logoColor=fff)](#)
+[![WebStorm](https://img.shields.io/badge/WebStorm-000?logo=webstorm&logoColor=fff)](#)
+[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)](#)
+[![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?logo=powershell&logoColor=white)](#)
+[![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff)](#)
+[![GameMaker](https://img.shields.io/badge/GameMaker-000?logo=gamemaker&logoColor=fff)](#)
+[![Godot Engine](https://img.shields.io/badge/Godot-%23FFFFFF.svg?logo=godot-engine)](#)
+[![Audacity](https://img.shields.io/badge/Audacity-0000CC?logo=audacity&logoColor=white)](#)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
+
+## Technical Experience
+- Helpdesk terminology, Jira bug tracker, Zendesk.
+- Reviewing bug reports, documenting reproduction steps, and working on solutions for the user.
+- Microsoft Teams, Office and Google equivalents.
+- Troubleshooting issues experienced by a team member.
+- Hobbyist tinkering with operating systems such as Windows and Linux distros.
+- Remote desktop software.
+
+## Professional Experience
+### Cliffco Mortgage Bankers
+Feb 2021 - May 2023 
+- Working in a fast-paced cooperative environment.
+- Assisting employees with mortgage software. (Blend, Floify, Encompass)
+- Assisting customers and employees with Website/Device navigation.
+- Analyzing financial documents such as property expenses, pay-stubs and bank statements.
+- Preparing loans for disclosures & E-disclosures.
+- Verification Of Employment. (VOE)
+- General data entry and reducing burden/load on processors.
+- Working with teams from outside companies to resolve issues.
+- Pipeline maintenance, ensuring loan documents are up-to-date.
+
+### IPSD
+July 2023 - Present
+- General building maintenance.
+- Daily meetings with my team members.
+- Brainstorming solutions to mitigate future issues.
+- Completing work orders issued by teachers and staff.
+- Reporting issues encountered within my section, and working with teachers to ensure minimal impact on their ability to educate.
+- Monitoring building heating and cooling systems from a computer.
