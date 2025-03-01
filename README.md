@@ -43,8 +43,6 @@ July 2023 - Present
 - Reporting issues encountered within my section, and working with teachers to ensure minimal impact on their ability to educate.
 - Monitoring building heating and cooling systems from a computer.
 
-<style>
-  .footer {
-    display: none;
-  }
-</style>
+ <script>
+  document.querySelector("footer").style.display = "none";
+ </script>
