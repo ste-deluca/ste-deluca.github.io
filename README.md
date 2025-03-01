@@ -42,3 +42,9 @@ July 2023 - Present
 - Completing work orders issued by teachers and staff.
 - Reporting issues encountered within my section, and working with teachers to ensure minimal impact on their ability to educate.
 - Monitoring building heating and cooling systems from a computer.
+
+<style>
+  .footer {
+    display: none;
+  }
+</style>
