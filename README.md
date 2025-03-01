@@ -18,7 +18,7 @@ Phone: 1+ (516) 972-8884
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
 
 ## Technical Experience
-- Helpdesk terminology, Jira bug tracker, Zendesk.
+- Running a virtual helpdesk, Jira bug tracker, Zendesk.
 - Reviewing bug reports, documenting reproduction steps, and working on solutions for the user.
 - Microsoft Teams, Office and Google equivalents.
 - Troubleshooting issues experienced by a team member.
