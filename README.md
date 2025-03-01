@@ -1,6 +1,6 @@
 ## Technical Skills
 [![Deno](https://img.shields.io/badge/Deno-000?logo=deno&logoColor=fff)](#)
-[![Fresh](https://img.shields.io/badge/Fresh-FFDB1E?logo=fresh&logoColor=fff)](#)
+[![Fresh](https://img.shields.io/badge/Fresh-FFDB1E?logo=fresh&logoColor=black)](#)
 [![WebStorm](https://img.shields.io/badge/WebStorm-000?logo=webstorm&logoColor=fff)](#)
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
