@@ -25,7 +25,7 @@
 ## Professional Experience
 ### Cliffco Mortgage Bankers
 Feb 2021 - May 2023 
-- Working in a fast-paced cooperative environment.
+- Working in a fast-paced collaborative environment.
 - Assisting employees with mortgage software. (Blend, Floify, Encompass)
 - Assisting customers and employees with Website/Device navigation.
 - Analyzing financial documents such as property expenses, pay-stubs and bank statements.
