@@ -42,4 +42,4 @@ July 2023 - Present
 - Brainstorming solutions to mitigate future issues.
 - Completing work orders issued by teachers and staff.
 - Empowering teachers to deliver the best possible education experience to students.
-- Monitoring building heating and cooling systems from a computer.
+- Monitor building heating and cooling systems.
