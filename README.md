@@ -27,7 +27,8 @@
 Feb 2021 - May 2023 
 - Working in a fast-paced collaborative environment.
 - Assisting employees with mortgage software. (Blend, Floify, Encompass)
-- Assisting customers and employees with Website/Device navigation.
+- Assisting customers with any questions or concerns.
+- Website/Device navigation assistance.
 - Analyzing financial documents such as property expenses, pay-stubs and bank statements.
 - Preparing loans for disclosures & E-disclosures.
 - Verification Of Employment. (VOE)
@@ -39,7 +40,7 @@ Feb 2021 - May 2023
 July 2023 - Present
 - General building maintenance.
 - Daily meetings with my team members.
-- Brainstorming solutions to mitigate future issues.
+- Brainstorming solutions to speed up problem solving.
 - Completing work orders issued by teachers and staff.
 - Empowering teachers to deliver the best possible education experience to students.
 - Monitor building heating and cooling systems.
