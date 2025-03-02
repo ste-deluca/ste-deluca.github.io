@@ -33,7 +33,7 @@ Feb 2021 - May 2023
 - Verification Of Employment. (VOE)
 - General data entry and reducing burden/load on processors.
 - Working with teams from outside companies to resolve issues.
-- Pipeline maintenance, ensuring loan documents are up-to-date.
+- Maintain large loan pipelines. (20+ active loans)
 
 ### IPSD
 July 2023 - Present
