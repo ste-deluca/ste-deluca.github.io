@@ -41,5 +41,5 @@ July 2023 - Present
 - Daily meetings with my team members.
 - Brainstorming solutions to mitigate future issues.
 - Completing work orders issued by teachers and staff.
-- Reporting issues encountered within my section, and working with teachers to ensure minimal impact on their ability to educate.
+- Empowering teachers to deliver the best possible education experience to students.
 - Monitoring building heating and cooling systems from a computer.
