@@ -14,7 +14,7 @@
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
 
 ## Technical Experience
-- Running a virtual helpdesk, Jira bug tracker, Zendesk.
+- Running a virtual helpdesk, Jira bug tracker, and Zendesk.
 - Reviewing bug reports, documenting reproduction steps, and working on solutions for the user.
 - Microsoft Teams, Office and Google equivalents.
 - Troubleshooting issues experienced by a user.
