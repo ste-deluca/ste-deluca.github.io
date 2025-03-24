@@ -43,4 +43,4 @@ July 2023 - Present
 - Brainstorming solutions to speed up problem solving.
 - Completing work orders issued by teachers and staff.
 - Empowering teachers to deliver the best possible education experience to students.
-- Monitor building heating and cooling systems.
+- Monitoring building HVAC systems.
