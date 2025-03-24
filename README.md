@@ -29,18 +29,29 @@ Feb 2021 - May 2023
 - Assisting employees with mortgage software. (Blend, Floify, Encompass)
 - Assisting customers with any questions or concerns.
 - Website/Device navigation assistance.
-- Analyzing financial documents such as property expenses, pay-stubs and bank statements.
-- Preparing loans for disclosures & E-disclosures.
-- Verification Of Employment. (VOE)
-- General data entry and reducing burden/load on processors.
-- Working with teams from outside companies to resolve issues.
-- Maintained large loan pipelines. (20+ active loans)
+- Analyzing property expenses, paystubs and bank statements.
+- Preparing loans for disclosures, E-disclosures.
+- General data entry, and reducing burden/load on processors.
+- Worked with teams from outside companies to resolve issues.
+- Maintained large loan pipelines.
 
 ### IPSD
 July 2023 - Present
 - General building maintenance.
-- Daily meetings with my team members.
+- Delegating/Coordinating tasks between team members.
 - Brainstorming solutions to speed up problem solving.
 - Completing work orders issued by teachers and staff.
 - Empowering teachers to deliver the best possible education experience to students.
 - Monitoring building HVAC systems.
+
+### U-Need-A-Prime Meats
+2015 - May 2019
+- Performing supervisory duties based on seniority.
+- Taking orders via email, phone and in-person.
+- Cutting raw meats and deli meats. Cooked a variety of foods.
+- Baking bread and pastries.
+- Coordinating with co-workers to enable time efficient multitasking.
+- Timing orders to be freshly hot upon estimated customer arrival time.
+- General maintenance of store grounds, including external walkways. (snow removal)
+- Used computer software to manage and restock inventory.
+- Processed transactions in a timely manner.
