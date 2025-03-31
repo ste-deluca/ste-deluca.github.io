@@ -49,8 +49,8 @@ July 2023 - Present
 2015 - May 2019
 - Performing supervisory duties based on seniority.
 - Taking orders via email, phone and in-person.
-- Cutting raw meats and deli meats. Cooked a variety of foods.
-- Baking bread and pastries.
+- Food preparation, cutting raw meats and deli meats.
+- Carefully followed protocols for safe food handling.
 - Coordinating with co-workers to enable time efficient multitasking.
 - Timing orders to be freshly hot upon estimated customer arrival time.
 - General maintenance of store grounds, including external walkways. (snow removal)
