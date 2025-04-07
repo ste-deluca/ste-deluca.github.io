@@ -51,7 +51,7 @@ July 2023 - Present
 - Taking orders via email, phone and in-person.
 - Food preparation, cutting raw meats and deli meats.
 - Carefully followed protocols for safe food handling.
-- Coordinating with co-workers to enable time efficient multitasking.
+- Coordinated with co-workers to enable time efficient multitasking.
 - Timing orders to be freshly hot upon estimated customer arrival time.
 - General maintenance of store grounds, including external walkways. (snow removal)
 - Used computer software to manage and restock inventory.
